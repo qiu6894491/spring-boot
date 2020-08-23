@@ -1,0 +1,18 @@
+# 所有环境公用属性
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+info:
+  app-name: spring-boot-demo
+  author: xuechen
+  email: 724207691@qq.com
+# ---连字符
+spring:
+  profiles:
+    active: dev
+
