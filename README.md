@@ -6,3 +6,6 @@ status取值：
 *down：遇到问题
 *out_of_service：资源为在使用，或者不该去使用
 *unknown： 不知道
+
+/yml文件理解
+1.
